@@ -1,11 +1,11 @@
 Class Person
 
-def talk = 'Hello there'
-  @talk
+def Talk = 'Hello there'
+  @Talk
 puts 'Hello there'
 end 
 
-def walk = 'The person is walking'
+def Walk = 'The person is walking'
   @walk 
 puts 'The person is walking'
 end  
