@@ -1,12 +1,12 @@
 Class Dog 
 
-def bark = 'Wolf'
-  @bark
+def Bark = 'Wolf'
+  @Bark
 puts 'Wolf'
 end
 
-def sits = 'Dog is sitting'
-  @sits 
+def Sits = 'Dog is sitting'
+  @Sits 
 puts 'Dog is sitting'
 end 
 
